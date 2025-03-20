@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.example.androidcameraalbum'
-    compileSdk 33
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.example.androidcameraalbum"
